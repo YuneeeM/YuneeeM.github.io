@@ -11,12 +11,12 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Min Jeong Yun # add your name
 author-img: david-freeman.jpg # add your photo
-about-author: 저는 부경대학교 컴퓨터공학과 학생 입니다! # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: dana512@naver.com# add your Email address
+about-author: 저는 부경대학교 컴퓨터공학과 학생 입니다!\n 오픈소스 소프트웨어 (101) 금요일 1-4 수업을 듣습니다! :)  # add description
+social-twitter: https://twitter.com # add your Twitter handle
+social-facebook: https://facebook.com # add your Facebook handle
+social-github: https://github.com/YuneeeM/YuneeeM.github.io # add your Github handle
+social-linkedin: https://lms.pknu.ac.kr/ilos/main/main_form.acl # add your Linkedin handle
+social-email: https://dana512@naver.com # add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
