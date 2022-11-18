@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I Rest From Work
+title: 어떻게 일로 부터 쉬는가??(2022-11-18 수정(한국어로)
 date: 2017-09-12 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: i-rest.jpg # Add image post (optional)
